@@ -1,0 +1,40 @@
+.move1 {
+position: relative;
+right: 120px;
+}
+
+.flex {
+display: flex;
+
+  justify-content: center;
+  flex-direction: row-reverse;
+  width: 40%;
+  height: 75%;
+  position: relative; 
+  left: 700;
+  bottom: 75px;
+
+
+}
+.move{
+position: relative;
+top: 200;
+  left: 75px
+  
+}
+.right {
+text-align: right;
+  left: 100px;
+}
+.testb {
+  border: solid 1px;
+}
+
+button {
+border-radius: 10px;
+  height: 15%;
+    width: 100%;
+left: 175px;
+ top: 350px;
+  position: relative;
+  }
